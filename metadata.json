@@ -1,0 +1,8 @@
+{
+  "name": "Remix: AgriCare AI",
+  "description": "Smart Farming Starts with Smart Decisions. Premium AI-powered plant health analysis and farming education platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
