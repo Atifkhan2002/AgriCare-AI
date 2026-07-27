@@ -2,9 +2,9 @@
 
 # 🌱 AgriCare AI
 
-### **AI-Powered Plant Disease Detection & Smart Crop Health Assistant**
+### AI-Powered Plant Disease Detection & Smart Crop Health Assistant
 
-Helping Farmers, Students, and Gardeners Make Smarter Crop Decisions with Artificial Intelligence.
+Helping Farmers, Students, Researchers, and Home Gardeners Make Smarter Agricultural Decisions with Artificial Intelligence.
 
 <p align="center">
 
@@ -13,55 +13,56 @@ Helping Farmers, Students, and Gardeners Make Smarter Crop Decisions with Artifi
 ![Vite](https://img.shields.io/badge/Vite-7-646CFF?logo=vite)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?logo=tailwindcss)
 ![Google Gemini](https://img.shields.io/badge/Google-Gemini_AI-4285F4?logo=google)
+![Vercel](https://img.shields.io/badge/Deployment-Vercel-black?logo=vercel)
+![GitHub last commit](https://img.shields.io/github/last-commit/Atifkhan2002/AgriCare-AI)
 ![License](https://img.shields.io/badge/License-Educational-success)
-![Status](https://img.shields.io/badge/Status-Live-brightgreen)
 
 </p>
 
-### 🌐 **Live Demo**
+### 🌐 Live Website
 
-https://agricare-ai-snowy.vercel.app/
+### https://agricare-ai-atif.vercel.app/
 
-### 📂 **GitHub Repository**
+### 💻 GitHub Repository
 
-https://github.com/Atifkhan2002/AgriCare-AI
+### https://github.com/Atifkhan2002/AgriCare-AI
 
 </div>
 
 ---
 
-# 📖 About the Project
+# 📖 About AgriCare AI
 
-**AgriCare AI** is a modern AI-powered agricultural web application that helps users identify plant diseases and receive intelligent recommendations using **Google Gemini AI**.
+AgriCare AI is an intelligent web application that helps farmers, agriculture students, researchers, and home gardeners detect plant diseases using Artificial Intelligence.
 
-Users simply upload an image of a crop or plant, and the AI analyzes the image to identify the plant, detect diseases or nutrient deficiencies, explain symptoms, estimate confidence, and provide professional treatment and prevention recommendations.
+The application allows users to upload an image of a crop or plant, after which **Google Gemini AI** analyzes the image and generates a detailed agricultural report. The AI identifies the plant species, detects diseases, nutrient deficiencies, or pest damage, estimates confidence, explains symptoms, and recommends treatment and preventive measures.
 
-Unlike traditional agricultural information websites, AgriCare AI also includes an interactive AI assistant that allows users to ask follow-up questions after receiving their diagnosis.
-
-The application is designed to provide a clean, modern, and user-friendly experience for farmers, agriculture students, researchers, and home gardeners.
+AgriCare AI combines modern web technologies with Generative AI to make agricultural knowledge more accessible, helping users make faster and more informed decisions about crop health.
 
 ---
 
 # 🎯 Problem Statement
 
-Plant diseases are one of the leading causes of reduced agricultural productivity. Many farmers and home gardeners cannot easily identify diseases at an early stage because agricultural experts are not always available.
+Plant diseases are one of the major reasons for crop loss worldwide. Many farmers and home gardeners struggle to identify diseases at an early stage because agricultural experts are not always available.
 
-AgriCare AI addresses this challenge by providing an intelligent AI-powered assistant capable of analyzing crop images and generating educational plant health reports within seconds. The platform helps users understand crop conditions, make informed decisions, and improve agricultural awareness.
+AgriCare AI addresses this challenge by providing an AI-powered assistant capable of analyzing crop images and generating practical recommendations within seconds. The platform helps users understand plant conditions, learn about diseases, and improve crop management.
 
 ---
 
 # 🌟 Why AgriCare AI?
 
-- 🤖 AI-powered crop disease detection
-- 🌿 Instant plant identification
-- 💬 Interactive AI agricultural assistant
+- 🤖 AI-powered plant disease detection
+- 🌿 Instant crop identification
+- 💬 Interactive agricultural AI assistant
 - 📄 Professional AI-generated reports
-- 🌍 English & Urdu language support
-- 🌙 Dark mode interface
-- ⭐ Favorite crops
 - 📚 Educational crop library
-- 📱 Fully responsive design
-- 🚀 Fast, modern, and intuitive user experience
+- ⭐ Favorite crops
+- 🕒 Analysis history
+- 📄 Export reports as PDF
+- 🌍 English & Urdu language support
+- 🌙 Dark mode
+- 📱 Fully responsive interface
+- ⚡ Fast, modern, and user-friendly design
 
 ---
 
@@ -80,65 +81,67 @@ AgriCare AI addresses this challenge by providing an intelligent AI-powered assi
 
 | Feature | Description |
 |----------|-------------|
-| 🌿 AI Crop Scanner | Upload crop images for AI analysis |
-| 🤖 Disease Detection | Detect plant diseases and health issues |
-| 🪴 Plant Identification | Identify plant species using AI |
-| 📊 Confidence Score | AI confidence estimation |
-| 💊 Treatment Suggestions | Practical disease management recommendations |
-| 🛡 Prevention Tips | Prevent future crop diseases |
-| 💬 AI Agricultural Chat | Ask follow-up questions after analysis |
-| 📚 Crop Library | Browse common crops and their information |
-| 📄 PDF Export | Download professional AI reports |
-| ⭐ Favorite Crops | Save frequently viewed crops |
-| 🌍 English / Urdu | Switch between two languages |
-| 🌙 Dark Mode | Professional dark theme |
-| 🕒 Analysis History | Save previous analyses locally |
-| 📱 Responsive Design | Works on desktop, tablet, and mobile |
+| 🤖 AI Crop Health Analyzer | Upload crop images for intelligent disease detection |
+| 🌿 Plant Identification | Automatically identifies crop species |
+| 🦠 Disease Detection | Detects visible plant diseases |
+| 🧪 Nutrient Deficiency Detection | Identifies nutrient-related problems |
+| 🐛 Pest Damage Analysis | Detects signs of pest attacks |
+| 📊 AI Confidence Score | Displays confidence level for diagnosis |
+| 💊 Treatment Suggestions | Provides practical treatment recommendations |
+| 🛡 Prevention Tips | Suggests preventive agricultural practices |
+| 💬 AI Agricultural Assistant | Ask follow-up questions after diagnosis |
+| 📚 Crop Library | Learn about common crops and diseases |
+| ⭐ Favorite Crops | Save crops for quick access |
+| 🕒 Analysis History | Stores previous analyses locally |
+| 📄 PDF Export | Download AI-generated reports |
+| 🌍 English / Urdu | Multi-language interface |
+| 🌙 Dark Mode | Comfortable viewing experience |
+| 📱 Responsive Design | Works on desktop, tablet, and mobile devices |
 
 ---
 
 # 🤖 AI Feature
 
-The core feature of AgriCare AI is powered by **Google Gemini AI**.
+The core intelligence of AgriCare AI is powered by **Google Gemini AI**.
 
-After uploading a crop image, Gemini AI analyzes the visual content and generates a structured agricultural report containing:
+After a crop image is uploaded, Gemini AI analyzes visual patterns and generates a structured agricultural report that includes:
 
 - Plant Identification
 - Disease Detection
 - Nutrient Deficiency Detection
 - Pest Damage Analysis
 - Symptom Explanation
-- Confidence Level
+- Confidence Estimation
 - Treatment Recommendations
 - Prevention Advice
-- Follow-up AI Conversation
+- Interactive Follow-up Conversation
 
 ---
 
 # 🧠 AI Workflow
 
 ```text
-Upload Plant Image
-        │
-        ▼
+User Uploads Plant Image
+           │
+           ▼
 Google Gemini AI
-        │
-        ▼
+           │
+           ▼
 Plant Identification
-        │
-        ▼
+           │
+           ▼
 Disease Detection
-        │
-        ▼
+           │
+           ▼
 Symptom Analysis
-        │
-        ▼
+           │
+           ▼
 Treatment Recommendations
-        │
-        ▼
-Prevention Tips
-        │
-        ▼
+           │
+           ▼
+Preventive Measures
+           │
+           ▼
 Interactive AI Assistant
 ```
 
@@ -146,15 +149,15 @@ Interactive AI Assistant
 
 # 📝 AI System Prompt
 
-The AI assistant is instructed to behave like a professional agricultural expert.
+The AI assistant behaves as an experienced agricultural scientist and plant pathologist.
 
-> **System Prompt**
+**Example Prompt**
 
-> You are an experienced agricultural scientist and plant pathologist. Analyze uploaded crop images carefully. Identify the plant whenever possible, detect diseases, nutrient deficiencies, or pest damage, explain symptoms, estimate confidence, recommend treatment options, provide prevention advice, and clearly mention uncertainty whenever appropriate. Keep responses educational, practical, professional, and easy to understand for farmers and students.
+> You are an experienced agricultural scientist and plant pathologist. Carefully analyze uploaded crop images. Identify the plant whenever possible, detect diseases, nutrient deficiencies, or pest damage, explain symptoms, estimate confidence, recommend treatment options, provide prevention advice, and clearly mention uncertainty whenever appropriate. Keep responses professional, educational, practical, and easy for farmers and students to understand.
 
 ---
 
-# 🛠 Tech Stack
+# 🛠 Technology Stack
 
 ## Frontend
 
@@ -173,48 +176,53 @@ The AI assistant is instructed to behave like a professional agricultural expert
 - Framer Motion
 - jsPDF
 
+## Development Tools
+
+- Visual Studio Code
+- Git
+- GitHub
+
 ## Deployment
 
-- GitHub
 - Vercel
 
 ---
 
-# 📸 Screenshots
+# 📸 Application Screenshots
 
 ## 🏠 Home Page
 
-<img width="1307" height="595" alt="Home" src="https://github.com/user-attachments/assets/2d76d1ad-1c3e-4741-96fc-b3c07edb8096" />
+<img width="1307" height="595" src="https://github.com/user-attachments/assets/2d76d1ad-1c3e-4741-96fc-b3c07edb8096">
 
 ---
 
 ## 🇵🇰 Urdu Interface
 
-<img width="1321" height="590" alt="Urdu" src="https://github.com/user-attachments/assets/f4fc2e9a-422a-4157-94c8-9062dea97903" />
+<img width="1321" height="590" src="https://github.com/user-attachments/assets/f4fc2e9a-422a-4157-94c8-9062dea97903">
 
 ---
 
 ## 🤖 AI Vision Crop Scanner
 
-<img width="1060" height="593" alt="AI Scanner" src="https://github.com/user-attachments/assets/f546dd92-153a-4a19-9ac8-d99a679d3f21" />
+<img width="1060" height="593" src="https://github.com/user-attachments/assets/f546dd92-153a-4a19-9ac8-d99a679d3f21">
 
 ---
 
 ## 🌿 AI Crop Health Analyzer
 
-<img width="1064" height="609" alt="Analyzer" src="https://github.com/user-attachments/assets/ff4c8467-6c6f-41c3-8411-83eb5afafdee" />
+<img width="1064" height="609" src="https://github.com/user-attachments/assets/ff4c8467-6c6f-41c3-8411-83eb5afafdee">
 
 ---
 
 ## ⭐ Favorite Crops
 
-<img width="1079" height="607" alt="Favorite Crops" src="https://github.com/user-attachments/assets/b529333d-0b4c-4d17-bc9f-f4d8b39bb185" />
+<img width="1079" height="607" src="https://github.com/user-attachments/assets/b529333d-0b4c-4d17-bc9f-f4d8b39bb185">
 
 ---
 
 ## 📚 Crop Library
 
-<img width="1060" height="611" alt="Crop Library" src="https://github.com/user-attachments/assets/2dc45eb8-baf0-4872-8ced-e2bb7c0fa454" />
+<img width="1060" height="611" src="https://github.com/user-attachments/assets/2dc45eb8-baf0-4872-8ced-e2bb7c0fa454">
 
 ---
 
@@ -250,7 +258,7 @@ Run the development server
 npm run dev
 ```
 
-Open
+Open your browser
 
 ```
 http://localhost:5173
@@ -271,12 +279,14 @@ AgriCare-AI
 │   ├── App.tsx
 │   └── main.tsx
 │
-├── assets
+├── public
 ├── index.html
 ├── package.json
+├── tsconfig.json
 ├── vite.config.ts
-├── README.md
-└── .env.example
+├── .env.example
+├── .gitignore
+└── README.md
 ```
 
 ---
@@ -285,7 +295,7 @@ AgriCare-AI
 
 - API keys are stored securely using environment variables.
 - Sensitive credentials are never committed to GitHub.
-- User analysis history is stored locally within the browser.
+- User preferences and analysis history are stored locally in the browser.
 - No personal information is collected or stored.
 
 ---
@@ -296,18 +306,18 @@ AgriCare-AI
 - Cloud synchronization
 - Voice-based crop diagnosis
 - Weather-aware recommendations
-- GPS-based crop suggestions
-- Offline AI support
+- GPS-based farming suggestions
 - Multi-image comparison
-- Farmer discussion community
-- Crop growth monitoring
-- Disease outbreak alerts
+- AI disease severity estimation
+- Plant care reminders
+- Farmer community platform
+- Offline AI support
 
 ---
 
 # 🙏 Acknowledgements
 
-This project was built using:
+This project was built using the following technologies and platforms:
 
 - Google Gemini AI
 - React
@@ -326,25 +336,21 @@ This project was built using:
 
 ## Muhammad Atif
 
-**BS Computer Science**
+**Bachelor of Science in Computer Science**
 
-GitHub:
-
-https://github.com/Atifkhan2002
+GitHub: https://github.com/Atifkhan2002
 
 ---
 
 # 📄 License
 
-This project was developed as an academic final project for the **ACT-AI Program**.
-
-It is intended for educational and demonstration purposes only.
+This project was developed as part of the **ACT-AI Final Project** for educational and demonstration purposes.
 
 ---
 
 <div align="center">
 
-## ⭐ If you found this project useful, please consider giving it a Star!
+## ⭐ If you found this project useful, please give it a Star on GitHub!
 
 ### 🌱 AgriCare AI — Empowering Agriculture with Artificial Intelligence
 
